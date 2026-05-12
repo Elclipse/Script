@@ -1,7 +1,7 @@
 Library for script
 
 ``
-For truyen script
+For manga script
 ``
 pip install cloudscraper BeautifulSoup Image BytesIO ThreadPoolExecutor
 
